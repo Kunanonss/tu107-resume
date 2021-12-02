@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# นาย คุณานนต์ คงชาตรี                                                                                                        
+![Image](https://i.imgur.com/lLAsAji.jpg)     
 
-You can use the [editor on GitHub](https://github.com/Kunanonss/tu107-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##### สัญชาติ: ไทย
+##### ศาสนา: พุทธ
+##### ที่อยู่ปัจุบัน: 11/27 หมู่3 ตำบล บางม่วง อำเภอ ตะกั่วป่า จังหวัด พังงา 82190
+##### เบอร์โทรศัพท์: 0987057705
+##### อีเมล์: kkongchatree54@gmail.com
+##### วันเกิด: 5 กรกฏาคม 2545
+##### สถานะทางทหาร: สำเร็จหลักสูตรรักษาดินแดน(รด.) 3 ปี
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                                                                                                                                                                             
 
-### Markdown
+## ประวัติการศึกษา
+  - 9 เมษายน 2564
+    มํธยมศึกษาตอนปลาย สาย วิทย์-คณิต
+    เกรดเฉลี่ย 3.43
+  - กำลังศึกษา ปริญญาตรีโครงการพิเศษ สาขาวิทยาศาสตร์เเละนวัฒกรรมข้อมูล มหาวิยาลัยธรรมศาสตร์
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## ทักษะเเละความสามารถพิเศษอื่นๆ
+  - สามารถ พูด อ่าน เขียน ภาษาอังกฤษได้พอใช้
+  - สามารถใช้โปรแกรม Microsofe office ได้พอใช้
+  - มีความสามารถในการเล่นกีฬา เช่น ว่ายน้ำ ฟุตบอล 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kunanonss/tu107-resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## งานอดิเรก
+  - ฟังเพลง
+  - เล่นเกม 
+  - อ่านหนังสือ 
