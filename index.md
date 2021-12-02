@@ -1,5 +1,5 @@
 # นาย คุณานนต์ คงชาตรี                                                                                                        
-![Image](https://i.imgur.com/lLAsAji.jpg)     
+![Image](https://i.imgur.com/MPGvJkU.jpg)     
 
 ##### สัญชาติ: ไทย
 ##### ศาสนา: พุทธ
